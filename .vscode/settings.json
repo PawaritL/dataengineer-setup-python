@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/usr/local/bin/python",
+    "jupyter.jupyterServerType": "local",
+    "jupyter.alwaysTrustNotebooks": true,
+    "jupyter.ignoreVscodeTheme": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "files.autoSave": "afterDelay",
+    "python.analysis.useImportHeuristic": true
+}

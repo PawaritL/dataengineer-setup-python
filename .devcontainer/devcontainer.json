@@ -1,0 +1,18 @@
+{
+//     "context": "..",
+//     "dockerFile": "../Dockerfile",
+    "image": "tw-dataengineer-python",
+    "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+    ],
+    "settings": {
+        "jupyter.alwaysTrustNotebooks": true,
+        "jupyter.ignoreVscodeTheme": true,
+        "editor.acceptSuggestionOnEnter": "off",
+        "filetalls.autoSave": "afterDelay",
+        "python.analysis.useImportHeuristic": true
+    }, 
+    // "postCreateCommand": "echo Hello!"
+}
